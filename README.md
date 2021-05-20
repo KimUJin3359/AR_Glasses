@@ -1,7 +1,6 @@
 # AR_Glasses
 
 ### Needed
-#### Hardware
 - Raspberry pi zero w with SD card
 - 0.96`` monochrome oled display
 - Wireless LAN Card

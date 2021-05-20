@@ -75,7 +75,7 @@ sudo raspi-config
 ---
 
 #### Connect OLED
-![image](https://user-images.githubusercontent.com/50474972/119001761-3abc9500-b9c7-11eb-8a40-ef1f2b9fe507.png)
+![image](https://user-images.githubusercontent.com/50474972/119001945-68094300-b9c7-11eb-8aa1-4ef23ebb6758.png)
 
 ---
 
@@ -94,4 +94,7 @@ sudo raspi-config
 ---
 
 ### Mechanism
-![image](https://user-images.githubusercontent.com/50474972/119001404-e7e2dd80-b9c6-11eb-8029-e48e7fb956a3.png)
+- periscope
+
+![image](https://user-images.githubusercontent.com/50474972/119001860-532caf80-b9c7-11eb-8cd9-4c5f4df01f53.png)
+

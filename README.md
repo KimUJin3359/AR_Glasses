@@ -75,7 +75,7 @@ sudo raspi-config
 ---
 
 #### Connect OLED
-![image](https://user-images.githubusercontent.com/50474972/118995585-393c9e00-b9c2-11eb-820f-fc4121860ed5.png)
+![image](https://user-images.githubusercontent.com/50474972/119001761-3abc9500-b9c7-11eb-8a40-ef1f2b9fe507.png)
 
 ---
 

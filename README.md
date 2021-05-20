@@ -70,8 +70,7 @@ sudo raspi-config
 | Frame | OLED |
 | --- | --- |
 | ![외관](https://user-images.githubusercontent.com/50474972/119000504-21671900-b9c6-11eb-8494-38c5dcee6bcb.jpg) | ![OLED](https://user-images.githubusercontent.com/50474972/119000538-29bf5400-b9c6-11eb-9f71-a8fa7d39e60b.jpg) |
-| ![외관_2](https://user-images.githubusercontent.com/50474972/119000790-62f7c400-b9c6-11eb-81f0-931c163dd5b3.jpg) | ![OLED_2](https://user-images.githubusercontent.com/50474972/119000847-6c812c00-b9c6-11eb-924c-319a11ea09d8.jpg)
- |
+| ![외관_2](https://user-images.githubusercontent.com/50474972/119000790-62f7c400-b9c6-11eb-81f0-931c163dd5b3.jpg) | ![OLED_2](https://user-images.githubusercontent.com/50474972/119000847-6c812c00-b9c6-11eb-924c-319a11ea09d8.jpg) |
 
 ### Mechanism
-1. OLED 
+![image](https://user-images.githubusercontent.com/50474972/119001404-e7e2dd80-b9c6-11eb-8029-e48e7fb956a3.png)
